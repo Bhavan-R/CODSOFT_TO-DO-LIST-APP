@@ -270,11 +270,15 @@ All functionalities worked successfully.
 
 (Attach screenshot showing main interface)
 
+<img width="595" height="922" alt="image" src="https://github.com/user-attachments/assets/bdc1913a-a8b3-4f5f-95b7-0bb2678848bd" />
+
 ---
 
 ## Screenshot 2 – Add Task Form
 
 (Attach screenshot showing task creation popup)
+
+<img width="586" height="878" alt="image" src="https://github.com/user-attachments/assets/e0367a5c-e827-499f-8ae6-45c43b28680d" />
 
 ---
 
