@@ -286,11 +286,17 @@ All functionalities worked successfully.
 
 (Attach screenshot showing added task)
 
+<img width="589" height="882" alt="image" src="https://github.com/user-attachments/assets/ecb988ab-3205-456c-b9b2-96f5fe0fcc13" />
+
+
 ---
 
 ## Screenshot 4 – Edit Task Feature
 
 (Attach screenshot showing task editing)
+
+<img width="592" height="907" alt="image" src="https://github.com/user-attachments/assets/ca802580-510d-4467-9c69-16c048e20e04" />
+
 
 ---
 
@@ -298,11 +304,18 @@ All functionalities worked successfully.
 
 (Attach screenshot showing completed task)
 
+<img width="585" height="914" alt="image" src="https://github.com/user-attachments/assets/c0cc8129-8f05-4486-85ee-f2b624968cd2" />
+
+
 ---
 
 ## Screenshot 6 – Delete Task Feature
 
 (Attach screenshot showing task deletion)
+
+<img width="595" height="915" alt="image" src="https://github.com/user-attachments/assets/bbd67060-1e6c-4d74-adb6-87b11378cfca" />
+
+<img width="593" height="913" alt="image" src="https://github.com/user-attachments/assets/93721889-62c3-4476-a49c-06b458855fc0" />
 
 ---
 
